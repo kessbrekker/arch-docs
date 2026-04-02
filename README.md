@@ -112,7 +112,7 @@ Bu belge, **Arch Linux** kullanıcıları için sistem yönetimi, ağ, disk, kul
 | `lspci` | PCI aygıtlarını gösterir. |
 | `free -h` | Bellek kullanımını gösterir. |
 | `top` veya `htop` | Gerçek zamanlı işlem listesi. |
-| `ps aux | grep <program>` | Belirli bir işlemi arar. |
+| `ps aux \| grep <program>` | Belirli bir işlemi arar. |
 | `df -Th` | Disk türü ve boyutlarını gösterir. |
 
 ---
